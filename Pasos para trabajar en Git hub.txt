@@ -1,0 +1,7 @@
+1) git add. (Para añadir el arcivo del reporsitorio)
+
+2) got commit -m "Escribir la modificacion"
+
+3) git pull (Para extraer el archivo que modificaste de tu directorio)
+
+4) git push (Para subir los cambios al reporsitorio
